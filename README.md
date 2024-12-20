@@ -20,7 +20,7 @@ local StringTest = UNQID.ReciveUID("StringTextTest")
 local InstanceTest = UNQID.ReciveUID("InstanceTest")
 ```
 
-Printing Out: MAKE SURE YOU ARE TRYING TO RECIVE THEM AFTER YOU GENERATED THEM, OTHERWISE IT WILL RETURN nil
+Printing Out: MAKE SURE YOU ARE TRYING TO RECIEVE THEM AFTER YOU GENERATED THEM, OTHERWISE IT WILL RETURN nil
 ```
 print(UNQID.ReciveUNQTable(BoolTest).ItemObject)
 print(UNQID.ReciveUNQTable(StringTest).ItemObject)
